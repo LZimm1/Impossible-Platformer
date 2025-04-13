@@ -8,6 +8,7 @@ A 2D platformer game built in Unity. Jump across platforms, avoid obstacles, and
 2. [Controls](#controls)
 3. [Gameplay](#gameplay)
 4. [Assets](#assets)
+
 ## Installation
 
 1. Clone the repository:
